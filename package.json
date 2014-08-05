@@ -1,0 +1,28 @@
+{
+  "name": "moves.js",
+  "version": "0.0.0",
+  "description": "Moves API client for node.js",
+  "main": "index.js",
+  "dependencies": {
+    "request": "2.39.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bnoguchi/moves.js"
+  },
+  "keywords": [
+    "moves",
+    "api",
+    "quantified-self",
+    "moves-app"
+  ],
+  "author": "Brian N Noguchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bnoguchi/moves.js/issues"
+  },
+  "homepage": "https://github.com/bnoguchi/moves.js"
+}
