@@ -3,7 +3,10 @@ moves.js
 
 Moves API client for node.js
 
-## Up and running
+For more information about the Moves API, see the [Moves for Developers
+page](https://dev.moves-app.com/).
+
+### Up and running
 
 ```javascript
 var Moves = require("moves.js");
